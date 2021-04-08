@@ -1,0 +1,3 @@
+[submodule "gol"]
+	path = gol
+	url = https://github.com/sivagunji007/game-of-life.git
